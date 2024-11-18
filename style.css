@@ -1,0 +1,24 @@
+body{
+    background-color: #E0FCFB;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 5px;
+}
+
+span{color: red;}
+
+.head{
+    color: darkblue;
+}
+
+#bglime{
+    background-color: #b3af8f;
+}
+
+#para{color: green;}
+
+#p{color: black;
+font-size: 18px;
+font-weight: bold;}
+
+a{color: blue;
+background-color: palegreen}
