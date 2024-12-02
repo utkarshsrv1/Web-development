@@ -1,4 +1,5 @@
 body{
+    position: fixed;
     background-color: #E0FCFB;
     font-family: 'Times New Roman', Times, serif;
     border-radius: 5px;
